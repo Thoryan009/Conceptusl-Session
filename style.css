@@ -92,3 +92,36 @@
     font-size: 30px;
 }
 
+.box{
+    height: 300px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 0 20px;
+    width: 200px;
+}
+.icon{
+    height: 50px;
+    padding: 10px 70px;
+    
+}
+
+.course{
+    font-size: 30px;
+    text-align: center;
+    padding: 15px 0px;
+}
+.last{
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    align-items: center;
+    
+}
+.enroll{
+    text-align: center;
+    justify-content: center;
+}
+
