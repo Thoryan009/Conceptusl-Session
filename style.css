@@ -112,6 +112,14 @@
     text-align: center;
     padding: 15px 0px;
 }
+.services{
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    margin: 20px;
+
+}
 .last{
     height: 600px;
     display: flex;
@@ -123,5 +131,34 @@
 .enroll{
     text-align: center;
     justify-content: center;
+}
+
+
+.footer{
+   margin-top: 30px;
+   padding: 200px 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.lastsec{
+    margin-top: 20px;
+    color: white;
+   background-color: black;
+    height: 500px ;
+
+}
+.h3{
+    font-size: 30px;
+}
+.footdes{
+    padding-top: 10px;
+}
+h5{
+    font-size: 20px;
+}
+.copiright{
+    color: white;
 }
 
